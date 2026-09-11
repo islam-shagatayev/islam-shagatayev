@@ -8,8 +8,11 @@ My work sits where legal process meets automation. A due diligence check that us
 
 | Project | What it is | Stack |
 |---|---|---|
+| [amal-visa-navigator](https://github.com/islam-shagatayev/amal-visa-navigator) | Immigration rules compiled into a personal checklist with dates. A rules engine, not a chatbot: 15 scenarios, 6 deadline types | Vanilla JS, Apps Script, Sheets |
 | [legaltech-radar](https://github.com/islam-shagatayev/legaltech-radar) | Daily legal and AI news digest with LLM relevance scoring, running in production since August 2026 | n8n, Python, Claude, Telegram |
 | [egov-company-check](https://github.com/islam-shagatayev/egov-company-check) | Automated company due diligence against Kazakhstan state registries, one hour of manual work down to two minutes | Python, PKCS#12 signing, state gateway API |
+| [n8n-cli](https://github.com/islam-shagatayev/n8n-cli) | Debugging tools for n8n: a per-node item funnel that shows where a workflow silently lost everything | Python, no dependencies |
+| [gas-deploy](https://github.com/islam-shagatayev/gas-deploy) | Command line client for the Apps Script API, so scripts live in git instead of a browser tab | Python, OAuth, Google APIs |
 | [meeting-recorder](https://github.com/islam-shagatayev/meeting-recorder) | Hotkey call recorder: dual-stream capture, transcription, LLM summary to Telegram | Python, ffmpeg, Whisper |
 | [money-budget-app](https://github.com/islam-shagatayev/money-budget-app) | Personal budgeting web app living entirely inside one Google account | Apps Script, Sheets, vanilla JS |
 | [whatsapp-mcp-lid-fix](https://github.com/islam-shagatayev/whatsapp-mcp-lid-fix) | Contact name resolver that fixes WhatsApp LID migration for an MCP server | Python, SQLite |
