@@ -20,11 +20,11 @@ My work sits where legal process meets automation. A due diligence check that us
 
 ## Also shipped, not open source
 
-* **BD Radar** — twice-daily scan of 30+ market sources, ranking deals, tenders and M&A signals by relevance to each practice and routing them to the right partner.
-* **Lawyer's Diary** — a Telegram service that turns a voice message into a structured time entry. 500+ tasks and 1,100+ hours logged.
-* **Unicase Experience** — the firm's project track record with AI search and AI-assisted data entry, cutting the selection of relevant experience from hours to minutes.
-* **Legal Environment Monitor** — daily legislation monitoring for major clients, compiled into a quarterly report draft.
-* **OG AI** — co-founded one of the first startups in Kazakhstan building AI agents for business process management. Processed 200,000+ applicant enquiries with a university; covered on national TV.
+* **BD Radar**, twice-daily scan of 30+ market sources, ranking deals, tenders and M&A signals by relevance to each practice and routing them to the right partner.
+* **Lawyer's Diary**, a Telegram service that turns a voice message into a structured time entry. 500+ tasks and 1,100+ hours logged.
+* **Unicase Experience**, the firm's project track record with AI search and AI-assisted data entry, cutting the selection of relevant experience from hours to minutes.
+* **Legal Environment Monitor**, daily legislation monitoring for major clients, compiled into a quarterly report draft.
+* **OG AI**, a startup I co-founded, one of the first in Kazakhstan building AI agents for business process management. It processed 200,000+ applicant enquiries with a university and was covered on national TV.
 
 ## How I work
 
