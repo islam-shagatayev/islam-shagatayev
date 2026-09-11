@@ -32,6 +32,10 @@ Python and JavaScript, n8n and Google Apps Script for the glue, Claude Code and 
 
 ## Elsewhere
 
-Law degree at Maqsut Narikbayev University, member of its Legal Tech Lab. I publish on digital and administrative law, and comment on AI regulation for the press, including [Euronews](https://www.euronews.com/2026/04/14/can-ai-systems-replace-human-judges-and-lawyers).
+Law degree at Maqsut Narikbayev University, member of its Legal Tech Lab. I publish on digital and administrative law and comment on AI regulation for the press.
+
+* [Euronews](https://www.euronews.com/2026/04/14/can-ai-systems-replace-human-judges-and-lawyers) on whether AI systems can replace human judges and lawyers.
+* [Khabar TV, NeoSet](https://www.instagram.com/reel/C_kWoMjsgRa/), a report on building an AI startup and automating business processes.
+* [MIND](https://mind.mnu.kz/), the Maqsut Narikbayev Institute for Networking and Development: an interview on AI and the launch of the Legal Tech Lab.
 
 islam.shagatayev@gmail.com
